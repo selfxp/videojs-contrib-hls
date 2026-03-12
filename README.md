@@ -1,4 +1,4 @@
-# video.js HLS Tech
+# video.js HLS Tech v3
 
 A video.js tech that plays HLS video on platforms that don't support it but have Flash.
 
